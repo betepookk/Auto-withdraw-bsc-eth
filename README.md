@@ -3,4 +3,4 @@ Simple auto-withdrawal of eth and bnb cryptocurrencies (hex format) written in p
 
 Рабочий автовывод эфира и бнб, процентный газ, импорт сид фраз, выборка от скольки выводить наши баксы 
 
-Как с ним работать?
+# Как с ним работать?
